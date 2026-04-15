@@ -35,7 +35,7 @@ $$
 
 donde el modelo aprende a predecir valores futuros en función del comportamiento pasado de la serie.
 
-### 📊 Resultados
+### Resultados
 
 El modelo alcanzó los siguientes resultados en la predicción de los siguientes 5 días:
 
