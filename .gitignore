@@ -1,0 +1,3 @@
+*.keras
+/Notebooks/02_Sliding_Windows.ipynb
+*.csv
